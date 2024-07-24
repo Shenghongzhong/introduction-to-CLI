@@ -1,0 +1,6 @@
+   12  echo "hello world"
+   13  echo hello world
+   14  echo -n hello world
+   15  echo hello world -n
+   16  echo "hello world" -n
+   17  echo "-n hello world"
