@@ -1,0 +1,8 @@
+   32  clear
+   33  pwd
+   34  cd /
+   35  pwd
+   36  ls
+   37  ls -lah
+   38  cd ~/Documents/project/ls-cli/exercise01
+   39  touch exercise02
