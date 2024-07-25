@@ -1,0 +1,16 @@
+   55  pwd
+   56  clear
+   57  pwd
+   58  mkdir practice
+   59  ls
+   60  cd practice
+   61  touch example.txt
+   62  ls
+   63  mv example.txt example1.txt
+   64  ls
+   65  mkdir tmp
+   66  mv example1.txt tmp
+   67  ls tmp
+   68  ls
+   69  mv tmp/example1.txt example2.txt
+   70  ls
