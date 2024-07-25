@@ -1,0 +1,10 @@
+   80  ls
+   81  mkdir exercise03
+   82  cd exercise03
+   83  ls
+   84  echo "Some example text" > file.txt
+   85  cat file.txt
+   86  head /etc/services
+   87  tail /etc/services
+   88  more /etc/services
+   89  less /etc/services
