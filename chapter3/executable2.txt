@@ -1,0 +1,15 @@
+   25  cd usr
+   26  pwd
+   27  ls
+   28  cd /
+   29  ls -lah
+   30  lscli
+   31  history | tail -n 20 > executable.txt
+   32  which touch
+   33  cd /usr/bin
+   34  ls
+   35  touch test
+   36  ls
+   37  history | tail 10 >executable2.txt
+   38  lscli
+   39  history | tail 10 >executable2.txt

@@ -1,0 +1,16 @@
+   80  cp -R grandchildren ./parents/newphews
+   81  cd ./parents
+   82  ls
+   83  cd newphews
+   84  ls 
+   85  cd ..
+   86  cd ..
+   87  ls
+   88  cp -R ./parents/newphews/* ./children
+   89  cd ..
+   90  tree ~/cli-tmp
+   91  cd cli-tmp
+   92  rm ./grandchildren/bob
+   93  cd ..
+   94  rm -rf cli-tmp
+   95  history 

@@ -1,0 +1,16 @@
+   15  mv abc/*.txt ./xyz
+   16  pwd
+   17  cd
+   18  pwd
+   19  cd $HOME
+   20  pwd
+   21  cd ~
+   22  pwd
+   23  cd /
+   24  pwd
+   25  cd usr
+   26  pwd
+   27  ls
+   28  cd /
+   29  ls -lah
+   30  lscli
